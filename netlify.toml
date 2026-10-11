@@ -1,0 +1,7 @@
+
+# moved to the Spindok server 2026-10-11; keep old links working
+[[redirects]]
+  from = "/*"
+  to = "https://concreterepair.griffindigitalmarketing.ca/:splat"
+  status = 301
+  force = true
